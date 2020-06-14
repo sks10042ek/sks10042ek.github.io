@@ -1,5 +1,5 @@
 .logo {padding: 10px 20px;text-align:left;}
-html{padding:10px 200px; background-color:#fff7ec;min-width:500px;}
+html{padding:10px 200px 10px 200px; background-color:#fff7ec;min-width:500px;}
 body{text-align:center;}
 section{margin:5px; padding:8px; height:auto;}
 section li{display:inline;}
